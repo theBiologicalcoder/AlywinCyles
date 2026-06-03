@@ -29,7 +29,7 @@ export default function Visit() {
             <div className="contact-icon">🕐</div>
             <div>
               <div className="contact-label">Hours</div>
-              <span className="contact-value">Call ahead to confirm opening hours</span>
+              <span className="contact-value">Mon-Fri: 10am - 530pm, TUE: Closed, SAT/SUN/PH: 10AM -330PM</span>
             </div>
           </li>
         </ul>
